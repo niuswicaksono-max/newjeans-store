@@ -1,59 +1,113 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<div align="center">
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+# NewJeans Store 🐰
 
-## About Laravel
+**E-commerce fan-store resmi bertema NewJeans**
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Dibangun pakai Laravel — tempat para Bunnies belanja album & merchandise, sekaligus update kabar terbaru lewat Magazine.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+</div>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+---
 
-## Learning Laravel
+## ✨ Fitur
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
+- 🛍️ Katalog produk (album & merchandise) dengan kategori
+- 🖼️ Detail produk dengan galeri foto
+- 🛒 Keranjang belanja & checkout
+- 💜 Wishlist
+- 📰 Magazine / artikel fan-content
+- 🔐 Autentikasi user (login & register)
+- ⚙️ Dashboard Admin: kelola produk, kategori, artikel, dan pesanan
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## 🛠️ Tech Stack
 
-## Laravel Sponsors
+| Layer | Teknologi |
+|---|---|
+| Backend | Laravel 12 |
+| Template | Blade |
+| Styling | Tailwind CSS 4 |
+| Database | SQLite |
+| Build Tool | Vite |
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+---
 
-### Premium Partners
+## 📸 Screenshot
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+### 🏠 Homepage
+Halaman utama toko — tampilan hero section yang menyambut para Bunnies begitu masuk ke situs.
 
-## Contributing
+<img width="943" height="500" alt="homepage 1" src="https://github.com/user-attachments/assets/dd1171b2-cdb7-4511-b6e9-36d899fd3bc7" />
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-## Code of Conduct
+### 🛍️ Katalog Produk
+Daftar semua produk yang dijual, lengkap dengan filter kategori album dan merchandise.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+<img width="941" height="503" alt="katalog produk " src="https://github.com/user-attachments/assets/9d90bd39-a205-4439-92fb-0fa9d2ed465a" />
 
-## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+### 🔍 Preview Produk
+Halaman detail satu produk — menampilkan deskripsi, harga, stok, dan galeri foto yang bisa diklik.
 
-## License
+<img width="943" height="499" alt="priview produk " src="https://github.com/user-attachments/assets/a806b93c-f2cc-4b50-a468-7645a653fce5" />
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+### 🛒 Keranjang (Cart)
+Ringkasan produk yang sudah ditambahkan user sebelum melanjutkan ke checkout.
+
+<img width="946" height="500" alt="cart" src="https://github.com/user-attachments/assets/bef977de-2928-43ae-8f97-d78b25c271a3" />
+
+
+### 💜 Wishlist
+Daftar produk favorit yang disimpan user untuk dibeli nanti.
+
+<img width="943" height="502" alt="wishlist " src="https://github.com/user-attachments/assets/5f297480-90ab-4e91-ab4d-2c9d7da82e12" />
+
+
+### 📰 Magazine
+Halaman kumpulan artikel dan konten eksklusif seputar NewJeans untuk para Bunnies.
+
+<img width="944" height="498" alt="magazine" src="https://github.com/user-attachments/assets/e1b24dd5-ec43-49e8-94ef-7583a82df92c" />
+
+
+### 📄 Preview Magazine
+Tampilan detail satu artikel magazine saat dibuka.
+
+<img width="945" height="499" alt="priview magazine " src="https://github.com/user-attachments/assets/0d64a508-8e42-41fc-bf99-94d21a77dc06" />
+
+
+### ⚙️ Dashboard Admin
+Panel kontrol admin — ringkasan statistik toko seperti total produk, pesanan, dan aktivitas terbaru.
+
+<img width="959" height="502" alt="dasbord admin " src="https://github.com/user-attachments/assets/c64fe84b-0141-460d-850f-6f5597623e01" />
+
+
+### ➕ Admin - Tambah Produk
+Form admin untuk menambah atau mengedit data produk, termasuk upload foto dan galeri.
+
+<img width="952" height="502" alt="edit tambah produk admin" src="https://github.com/user-attachments/assets/c2596579-7e9e-407e-aecd-96df09977198" />
+
+
+### ➕ Admin - Tambah Magazine
+Form admin untuk menulis dan mempublikasikan artikel magazine baru.
+
+<img width="943" height="496" alt="edit tambah magazine " src="https://github.com/user-attachments/assets/6c414bc3-7b16-4d27-8a72-2dd6ffa11123" />
+
+
+### 📦 Admin - Kelola Pesanan
+Halaman admin untuk memantau dan memperbarui status pesanan yang masuk dari user.
+
+<img width="946" height="497" alt="edit pesanan" src="https://github.com/user-attachments/assets/6c690434-47da-49cc-a71c-84546c23a61e" />
+
+
+---
+
+## 📄 Lisensi
+
+Proyek ini dibuat untuk keperluan pembelajaran / fan-project, tidak berafiliasi resmi dengan ADOR atau HYBE.
+
+<div align="center">
+
+Made with 💜 for Bunnies
+
+</div>
