@@ -87,14 +87,14 @@ Daftar produk favorit yang disimpan user untuk dibeli nanti.
 Halaman kumpulan artikel dan konten eksklusif seputar NewJeans untuk para Bunnies.
 
 <p align="center">
-  <img src="image" src="https://github.com/user-attachments/assets/cd2f0965-2f59-4f39-bf9d-0e5968d34483"  alt="Magazine" width="700">
+  <img src="https://github.com/user-attachments/assets/cd2f0965-2f59-4f39-bf9d-0e5968d34483"  alt="Magazine" width="700">
 </p>
 
 ### 📄 Preview Magazine
 Tampilan detail satu artikel magazine saat dibuka.
 
 <p align="center">
-  <img src="image" src="https://github.com/user-attachments/assets/7b26713a-1101-47d8-8b91-444fc1d2e5d2" alt="Preview Magazine" width="700">
+  <img src="https://github.com/user-attachments/assets/7b26713a-1101-47d8-8b91-444fc1d2e5d2" alt="Preview Magazine" width="700">
 </p>
 
 ### ⚙️ Dashboard Admin
