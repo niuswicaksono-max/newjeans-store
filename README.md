@@ -199,16 +199,6 @@ Create, edit, and publish new magazine articles directly from the admin dashboar
 
 ---
 
-## 📦 Manage Orders
-
-Monitor incoming orders and update their status through the admin panel.
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8c690434-47da-49cc-a71e-84546c23a61e" alt="Admin Manage Orders" width="700">
-</p>
-
----
-
 # 🚀 Deployment
 
 The application has been deployed and is currently running online using **InfinityFree** hosting.
