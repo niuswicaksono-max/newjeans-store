@@ -43,6 +43,18 @@ Halaman utama toko — tampilan hero section yang menyambut para Bunnies begitu 
   <img src="https://github.com/user-attachments/assets/dd1171b2-cdb7-4511-b6e9-36d899fd3bc7" alt="Homepage" width="700">
 </p>
 
+### 💫 About NewJeans
+Halaman perkenalan singkat tentang NewJeans — cerita debut, konsep musik, sampai makna di balik nama grupnya.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0d6c5c18-90a6-4ff9-9601-13d286c95bc7" alt="About NewJeans" width="700">
+</p>
+
+### 👯‍♀️ Members
+Halaman yang menampilkan kelima member NewJeans — Minji, Hanni, Danielle, Haerin, dan Hyein.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4f91fc5d-b728-48d4-be5c-3ff3924db2a6" alt="Members" width="700">
+</p>
+
 ### 🛍️ Katalog Produk
 Daftar semua produk yang dijual, lengkap dengan filter kategori album dan merchandise.
 
