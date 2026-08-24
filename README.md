@@ -59,42 +59,42 @@ Halaman yang menampilkan kelima member NewJeans — Minji, Hanni, Danielle, Haer
 Daftar semua produk yang dijual, lengkap dengan filter kategori album dan merchandise.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9d90bd39-a205-4439-92fb-0fa9d2ed465a" alt="Katalog Produk" width="700">
+  <img src="https://github.com/user-attachments/assets/4b34df02-5a7f-478e-b343-5cab29b7629d" alt="Katalog Produk" width="700">
 </p>
 
 ### 🔍 Preview Produk
 Halaman detail satu produk — menampilkan deskripsi, harga, stok, dan galeri foto yang bisa diklik.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a806b93c-f2cc-4b50-a468-7645a653fce5" alt="Preview Produk" width="700">
+  <img src="https://github.com/user-attachments/assets/187fb58e-8a33-4a8a-84b0-ac24be87f200" alt="Preview Produk" width="700">
 </p>
 
 ### 🛒 Keranjang (Cart)
 Ringkasan produk yang sudah ditambahkan user sebelum melanjutkan ke checkout.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bef977de-2928-43ae-8f97-d78b25c271a3" alt="Cart" width="700">
+  <img src="https://github.com/user-attachments/assets/8cab1d38-4033-432a-bcad-b6025c42f05c" alt="Cart" width="700">
 </p>
 
 ### 💜 Wishlist
 Daftar produk favorit yang disimpan user untuk dibeli nanti.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5f297480-90ab-4e91-ab4d-2c9d7da82e12" alt="Wishlist" width="700">
+  <img src="https://github.com/user-attachments/assets/3bb5e2ec-1629-4cd3-865f-1eaf4223feb6" alt="Wishlist" width="700">
 </p>
 
 ### 📰 Magazine
 Halaman kumpulan artikel dan konten eksklusif seputar NewJeans untuk para Bunnies.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e1b24dd5-ec43-49e8-94ef-7583a82df92c" alt="Magazine" width="700">
+  <img src="image" src="https://github.com/user-attachments/assets/cd2f0965-2f59-4f39-bf9d-0e5968d34483"  alt="Magazine" width="700">
 </p>
 
 ### 📄 Preview Magazine
 Tampilan detail satu artikel magazine saat dibuka.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0d64a508-8e42-41fc-bf99-94d21a77dc06" alt="Preview Magazine" width="700">
+  <img src="image" src="https://github.com/user-attachments/assets/7b26713a-1101-47d8-8b91-444fc1d2e5d2" alt="Preview Magazine" width="700">
 </p>
 
 ### ⚙️ Dashboard Admin
