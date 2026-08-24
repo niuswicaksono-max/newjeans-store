@@ -40,7 +40,7 @@ Dibangun pakai Laravel — tempat para Bunnies belanja album & merchandise, seka
 Halaman utama toko — tampilan hero section yang menyambut para Bunnies begitu masuk ke situs.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dd1171b2-cdb7-4511-b6e9-36d899fd3bc7" alt="Homepage" width="700">
+  <img src="https://github.com/user-attachments/assets/9f6b710f-16e8-46d9-b4e9-805beb2540e7" alt="Homepage" width="700">
 </p>
 
 ### 💫 About NewJeans
