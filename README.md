@@ -7,7 +7,7 @@
 **E-commerce fan-store bertema NewJeans** yang dibangun menggunakan Laravel.
 
 Belanja album & merchandise, simpan produk favorit ke wishlist, dan baca berbagai konten menarik melalui **Magazine** — semuanya dalam satu tempat untuk para Bunnies. 🐇
-
+ 
 <br>
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-NewJeans_Store-7dd3fc?style=for-the-badge)](https://newjeans-store.infinityfree.io)
